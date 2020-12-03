@@ -74,4 +74,4 @@ This means 2.3 dies times greater as often as a women does. It is more deadly to
 
 ## Conclusions
 
-All of that being said, the odds of men dying versus women dying are 2.3 times more frequent. 
+All of that being said, we can see the results that show that males are more likely to die than females as a result of covid19. The results of the Fishers Exact test show that males are 2.3 times more likely to die than females. As a result, we will reject the null hypothesis stating that men and women are equally likely to die of covid19
